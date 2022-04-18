@@ -10,7 +10,7 @@
 
 module.exports = class unlockHDScreenShare{
      
-    load() {
+    constructor() {
         this.userPremiumType = BdApi.findModuleByProps("getCurrentUser").getCurrentUser().premiumType;
     }
      
