@@ -1,6 +1,6 @@
 /**
  * @name unlockHDScreenShare
- * @version 0.0.1
+ * @version 0.0.2
  * @description unlock the ability to share your screen in 1080p
  * @author Ralkey#0516
  * @source https://github.com/RalkeyOfficial/discord-1080p-video-unlocker
